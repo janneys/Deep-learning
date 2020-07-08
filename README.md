@@ -3,7 +3,7 @@ This repository contains course assignments of Deep Learning in Eindhoven Univer
 
 # Contents
 ## Word Embedding
-Build word embeddings using CBOW model and Skipgram model with a Keras implementation. Perform the analogy task by comparing the similarity between word embeddings. A sample analogy task likes: "a king is to a queen as a man is to a woman" ($e_{king} - e_{queen} + e_{woman} \approx e_{man}$) is true.
+Build word embeddings using CBOW model and Skipgram model with a Keras implementation. Perform the analogy task by comparing the similarity between word embeddings. A sample analogy task likes: "a king is to a queen as a man is to a woman" is true.
 
 #### Reference:
 *  Mikolov, Tomas, et al. "[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)" Advances in neural information processing systems. 2013. 
